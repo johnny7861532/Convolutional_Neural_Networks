@@ -12,6 +12,8 @@ Due to my Mac's computing power I lower some of the parameters, you can also adj
 Such as batch size,input size and epochs.
 If your model shows that its over fitting, please using the dropout function, some of my experience 0.5 might be the right number for reduce this problem.
 
+How do you deal with overfitting -- dropout: http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
+
 
 
 Anyway hope anyone can learn keras fast, enjoy deep learning.
