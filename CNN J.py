@@ -70,7 +70,7 @@ classifier.fit_generator(
         epochs=3,
         validation_data=test_set,
         validation_steps=2000
-        ,callbacks=[tb])
+        )
 
 
 import numpy as np
