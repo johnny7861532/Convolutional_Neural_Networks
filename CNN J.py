@@ -75,7 +75,7 @@ classifier.fit_generator(
 
 import numpy as np
 from keras.preprocessing import image
-#loading image and it's dimetion must fit to the model we have train ex:64
+#loading image and it's dimetion must fit to the model we have train ex:128
 test_image = image.load_img('dataset/single_prediction/cat.4053.jpg',target_size = (128,128))
 #turn test_image into 3D array that can fit out model
 test_image = image.img_to_array(test_image)
