@@ -18,7 +18,9 @@ If your model shows that its overfitting, please using the dropout function, bas
 
 http://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
 
+### Also a powerful way to increasing both accuracy and learning speed ###
 
+*BatchNormalize()*
 
 Anyway hope anyone can learn keras fast and enjoy deep learning.
 
